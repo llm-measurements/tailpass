@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://llm-measurements.github.io/tailpass/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://llm-measurements.github.io/tailpass/assets/social-preview.png</image:loc>
+      <image:title>Success Has a Shape: TailPass@k</image:title>
+      <image:caption>Social preview for the TailPass@k repeated-sampling agent evaluation project page.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://llm-measurements.github.io/tailpass/assets/figures/tailpass_hmmt_pair.png</image:loc>
+      <image:title>TailPass@16 discovery-stability profile</image:title>
+      <image:caption>TailPass@16 profile comparing Qwen3-Thinking and gpt-oss-medium on HMMT 2025.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://llm-measurements.github.io/tailpass/assets/figures/temperature_tailpass_curves_k64.png</image:loc>
+      <image:title>Temperature TailPass@64 curves</image:title>
+      <image:caption>Sampling protocols can reshape TailPass@64 discovery-stability profiles.</image:caption>
+    </image:image>
+  </url>
+</urlset>
